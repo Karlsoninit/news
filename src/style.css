@@ -1,0 +1,16 @@
+.list {
+    width: 300px;
+    border: 1px solid green;
+    list-style: none;
+}
+
+#news {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#form {
+    margin: auto;
+    width: 400px;
+}
